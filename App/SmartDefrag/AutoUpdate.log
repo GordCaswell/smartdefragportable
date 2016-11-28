@@ -1,81 +1,81 @@
 
-2016-09-09 22:25:38 605 Use IE
-2016-09-09 22:25:38 605 License type :0
-2016-09-09 22:25:38 605 Use IE
-2016-09-09 22:25:38 605 DateTimeLast:12/30/1899
-2016-09-09 22:25:38 605 Now:9/9/2016 10:25:38 PM
-2016-09-09 22:25:38 605 between61377025
-2016-09-09 22:25:38 605 out of 720 minites, need get update info
-2016-09-09 22:25:38 605 GetUpdateURL: LicenseTypeEx = 0
-2016-09-09 22:25:38 605 GetUpdateURL: DefaultURL = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt
-2016-09-09 22:25:38 605 GetUpdateURL: File not Exists C:\Program Files (x86)\IObit\Smart Defrag\TestUpdate.ini
-2016-09-09 22:25:38 605 GetUpdateURL: result = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt
-2016-09-09 22:25:38 721 Start-GetASync
-2016-09-09 22:25:39 067 HeaderEnd ContentLength = 4626
-2016-09-09 22:25:39 067 HeaderEnd AcceptRanges = bytes
-2016-09-09 22:25:39 067 HeaderEnd DocName = sd5-update.upt
-2016-09-09 22:25:39 067 HeaderEnd StatusCode = 200 OK
-2016-09-09 22:25:39 067 HeaderEnd Location = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt OK
-2016-09-09 22:25:39 067 GetASyncRequestDone
-2016-09-09 22:25:39 067 GetASyncRequestDone - FMsg_WM_START_MULTI
-2016-09-09 22:25:39 067 StartMulti---- MyHttp.FIndex: 0 MyHttp.FStartOffset: 0 MyHttp.FEndOffset: 1156
-2016-09-09 22:25:39 067 StartMulti---- MyHttp.FIndex: 1 MyHttp.FStartOffset: 1157 MyHttp.FEndOffset: 2313
-2016-09-09 22:25:39 067 StartMulti---- MyHttp.FIndex: 2 MyHttp.FStartOffset: 2314 MyHttp.FEndOffset: 3470
-2016-09-09 22:25:39 067 StartMulti---- MyHttp.FIndex: 3 MyHttp.FStartOffset: 3471 MyHttp.FEndOffset: 4626
-2016-09-09 22:25:39 067 WMStartMulti-GetASync
-2016-09-09 22:25:39 414 Download done index = 0 OK
-2016-09-09 22:25:39 414 Download done index = 3 OK
-2016-09-09 22:25:39 414 Download done index = 1 OK
-2016-09-09 22:25:39 414 Download done index = 2 OK
-2016-09-09 22:25:39 414 Done
-2016-09-09 22:25:39 414 All done
-2016-09-09 22:25:39 414 Finished: C:\Program Files (x86)\IObit\Smart Defrag\Update\Update.ini.tmp
-2016-09-09 22:25:39 530 Get update info succeed 1
-2016-09-09 22:25:39 530 Get update info succeed 2
-2016-09-09 22:25:39 645 check license
-2016-09-09 22:25:39 645 ContinueDownload
-2016-09-09 22:25:39 645 start download
-2016-09-09 22:25:39 761 Start-GetASync
-2016-09-09 22:25:40 108 HeaderEnd ContentLength = 670
-2016-09-09 22:25:40 108 HeaderEnd AcceptRanges = bytes
-2016-09-09 22:25:40 108 HeaderEnd DocName = UpdateHistorysd520.upt
-2016-09-09 22:25:40 108 HeaderEnd StatusCode = 200 OK
-2016-09-09 22:25:40 108 HeaderEnd Location = http://update.iobit.com/infofiles/smartdefrag/history/UpdateHistorysd520.upt OK
-2016-09-09 22:25:40 108 GetASyncRequestDone
-2016-09-09 22:25:40 108 GetASyncRequestDone - FMsg_WM_START_MULTI
-2016-09-09 22:25:40 108 StartMulti---- MyHttp.FIndex: 0 MyHttp.FStartOffset: 0 MyHttp.FEndOffset: 167
-2016-09-09 22:25:40 108 StartMulti---- MyHttp.FIndex: 1 MyHttp.FStartOffset: 168 MyHttp.FEndOffset: 335
-2016-09-09 22:25:40 108 StartMulti---- MyHttp.FIndex: 2 MyHttp.FStartOffset: 336 MyHttp.FEndOffset: 503
-2016-09-09 22:25:40 108 StartMulti---- MyHttp.FIndex: 3 MyHttp.FStartOffset: 504 MyHttp.FEndOffset: 670
-2016-09-09 22:25:40 108 WMStartMulti-GetASync
-2016-09-09 22:25:40 454 Download done index = 0 OK
-2016-09-09 22:25:40 454 Download done index = 1 OK
-2016-09-09 22:25:40 454 Download done index = 3 OK
-2016-09-09 22:25:40 454 Download done index = 2 OK
-2016-09-09 22:25:40 454 Done
-2016-09-09 22:25:40 454 All done
-2016-09-09 22:25:40 454 Finished: C:\Program Files (x86)\IObit\Smart Defrag\Update\UpdateHistory.ini.tmp
-2016-09-09 22:25:40 570 download finish
-2016-09-09 22:25:40 570 download MD5:3217e2731b190275e57b0b0fbe23a62e
-2016-09-09 22:25:40 570 download succeed
-2016-09-09 22:25:40 685 Anylize update info
-2016-09-09 22:25:40 685 Get Lan ID :1033
-2016-09-09 22:25:40 685 CV:5.2.0.854
-2016-09-09 22:25:40 685 PV:5.2.0.854
-2016-09-09 22:25:40 685 SV:5.2.0.854
-2016-09-09 22:25:40 702 GetUpdateType
-2016-09-09 22:25:40 702 GetUpdateType StartType:1
-2016-09-09 22:25:40 702 no need update
-2016-09-09 22:25:40 702 GetUpdateType fin updatetype:2 Result:
-2016-09-09 22:25:40 801 Timer_ShowTimer GetUpdateType
-2016-09-09 22:25:40 801 Timer_ShowTimer s_UpdateType:0
-2016-09-09 22:25:40 801 GetUpdateType
-2016-09-09 22:25:40 801 GetUpdateType StartType:1
-2016-09-09 22:25:40 801 no need update
-2016-09-09 22:25:40 801 GetUpdateType fin updatetype:2 Result:
-2016-09-09 22:25:40 801 CheckUpdate update type:2
-2016-09-09 22:25:40 801 Button_CancelClick Start
-2016-09-09 22:25:40 801 Button_CancelClick finish
-2016-09-09 22:25:40 801 Button_CancelClick finish do mission
-2016-09-09 22:25:40 801 Button_CancelClick finish do mission fin
-2016-09-09 22:25:40 801 Button_CancelClick no restart
+2016-10-26 13:51:56 717 Use IE
+2016-10-26 13:51:56 717 License type :0
+2016-10-26 13:51:56 717 Use IE
+2016-10-26 13:51:56 717 DateTimeLast:12/30/1899
+2016-10-26 13:51:56 717 Now:10/26/2016 1:51:56 PM
+2016-10-26 13:51:56 717 between61444191
+2016-10-26 13:51:56 717 out of 720 minites, need get update info
+2016-10-26 13:51:56 717 GetUpdateURL: LicenseTypeEx = 0
+2016-10-26 13:51:56 717 GetUpdateURL: DefaultURL = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt
+2016-10-26 13:51:56 717 GetUpdateURL: File not Exists C:\Program Files (x86)\IObit\Smart Defrag\TestUpdate.ini
+2016-10-26 13:51:56 717 GetUpdateURL: result = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt
+2016-10-26 13:51:56 827 Start-GetASync
+2016-10-26 13:51:57 155 HeaderEnd ContentLength = 5122
+2016-10-26 13:51:57 155 HeaderEnd AcceptRanges = bytes
+2016-10-26 13:51:57 155 HeaderEnd DocName = sd5-update.upt
+2016-10-26 13:51:57 155 HeaderEnd StatusCode = 200 OK
+2016-10-26 13:51:57 155 HeaderEnd Location = http://update.iobit.com/infofiles/smartdefrag/sd5-update.upt OK
+2016-10-26 13:51:57 155 GetASyncRequestDone
+2016-10-26 13:51:57 155 GetASyncRequestDone - FMsg_WM_START_MULTI
+2016-10-26 13:51:57 155 StartMulti---- MyHttp.FIndex: 0 MyHttp.FStartOffset: 0 MyHttp.FEndOffset: 1280
+2016-10-26 13:51:57 155 StartMulti---- MyHttp.FIndex: 1 MyHttp.FStartOffset: 1281 MyHttp.FEndOffset: 2561
+2016-10-26 13:51:57 155 StartMulti---- MyHttp.FIndex: 2 MyHttp.FStartOffset: 2562 MyHttp.FEndOffset: 3842
+2016-10-26 13:51:57 155 StartMulti---- MyHttp.FIndex: 3 MyHttp.FStartOffset: 3843 MyHttp.FEndOffset: 5122
+2016-10-26 13:51:57 155 WMStartMulti-GetASync
+2016-10-26 13:51:57 374 Download done index = 0 OK
+2016-10-26 13:51:57 483 Download done index = 1 OK
+2016-10-26 13:51:57 483 Download done index = 3 OK
+2016-10-26 13:51:57 483 Download done index = 2 OK
+2016-10-26 13:51:57 483 Done
+2016-10-26 13:51:57 483 All done
+2016-10-26 13:51:57 483 Finished: C:\Program Files (x86)\IObit\Smart Defrag\Update\Update.ini.tmp
+2016-10-26 13:51:57 592 Get update info succeed 1
+2016-10-26 13:51:57 592 Get update info succeed 2
+2016-10-26 13:51:57 702 check license
+2016-10-26 13:51:57 702 ContinueDownload
+2016-10-26 13:51:57 702 start download
+2016-10-26 13:51:57 811 Start-GetASync
+2016-10-26 13:51:58 139 HeaderEnd ContentLength = 844
+2016-10-26 13:51:58 139 HeaderEnd AcceptRanges = bytes
+2016-10-26 13:51:58 139 HeaderEnd DocName = UpdateHistorysd530.upt
+2016-10-26 13:51:58 139 HeaderEnd StatusCode = 200 OK
+2016-10-26 13:51:58 139 HeaderEnd Location = http://update.iobit.com/infofiles/smartdefrag/history/UpdateHistorysd530.upt OK
+2016-10-26 13:51:58 139 GetASyncRequestDone
+2016-10-26 13:51:58 139 GetASyncRequestDone - FMsg_WM_START_MULTI
+2016-10-26 13:51:58 139 StartMulti---- MyHttp.FIndex: 0 MyHttp.FStartOffset: 0 MyHttp.FEndOffset: 211
+2016-10-26 13:51:58 139 StartMulti---- MyHttp.FIndex: 1 MyHttp.FStartOffset: 212 MyHttp.FEndOffset: 423
+2016-10-26 13:51:58 139 StartMulti---- MyHttp.FIndex: 2 MyHttp.FStartOffset: 424 MyHttp.FEndOffset: 635
+2016-10-26 13:51:58 139 StartMulti---- MyHttp.FIndex: 3 MyHttp.FStartOffset: 636 MyHttp.FEndOffset: 844
+2016-10-26 13:51:58 139 WMStartMulti-GetASync
+2016-10-26 13:51:58 358 Download done index = 0 OK
+2016-10-26 13:51:58 467 Download done index = 2 OK
+2016-10-26 13:51:58 467 Download done index = 3 OK
+2016-10-26 13:51:58 686 Download done index = 1 OK
+2016-10-26 13:51:58 686 Done
+2016-10-26 13:51:58 686 All done
+2016-10-26 13:51:58 686 Finished: C:\Program Files (x86)\IObit\Smart Defrag\Update\UpdateHistory.ini.tmp
+2016-10-26 13:51:58 796 download finish
+2016-10-26 13:51:58 796 download MD5:7b340f1b6cfe06efb395e24e7effe956
+2016-10-26 13:51:58 796 download succeed
+2016-10-26 13:51:58 905 Anylize update info
+2016-10-26 13:51:58 905 Get Lan ID :1033
+2016-10-26 13:51:58 905 CV:5.3.0.976
+2016-10-26 13:51:58 905 PV:5.3.0.976
+2016-10-26 13:51:58 905 SV:5.3.0.976
+2016-10-26 13:51:58 905 GetUpdateType
+2016-10-26 13:51:58 905 GetUpdateType StartType:1
+2016-10-26 13:51:58 905 no need update
+2016-10-26 13:51:58 905 GetUpdateType fin updatetype:2 Result:
+2016-10-26 13:51:59 014 Timer_ShowTimer GetUpdateType
+2016-10-26 13:51:59 014 Timer_ShowTimer s_UpdateType:0
+2016-10-26 13:51:59 014 GetUpdateType
+2016-10-26 13:51:59 014 GetUpdateType StartType:1
+2016-10-26 13:51:59 014 no need update
+2016-10-26 13:51:59 014 GetUpdateType fin updatetype:2 Result:
+2016-10-26 13:51:59 014 CheckUpdate update type:2
+2016-10-26 13:51:59 014 Button_CancelClick Start
+2016-10-26 13:51:59 014 Button_CancelClick finish
+2016-10-26 13:51:59 014 Button_CancelClick finish do mission
+2016-10-26 13:51:59 014 Button_CancelClick finish do mission fin
+2016-10-26 13:51:59 014 Button_CancelClick no restart
