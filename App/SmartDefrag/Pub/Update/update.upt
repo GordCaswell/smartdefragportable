@@ -1,0 +1,7 @@
+[Uninstaller6_Config]
+
+BugreportType=3
+
+Zip_File_Size=5120
+
+BugReport_New_Txt_Size=400
